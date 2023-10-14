@@ -1,0 +1,6 @@
+[submodule "msdfgen"]
+	path = msdfgen
+	url = https://github.com/cheater78/msdfgen.git
+[submodule "artery-font-format"]
+	path = artery-font-format
+	url = https://github.com/cheater78/artery-font-format.git
