@@ -27,5 +27,8 @@ out/
 
 bin/
 bin-int/
-.vcxproj
-.vcxproj.filters
+*.vcxproj
+*.vcxproj.filters
+
+CMakeCache.txt
+CMakeFiles/
