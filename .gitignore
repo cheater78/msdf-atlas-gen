@@ -32,3 +32,4 @@ bin-int/
 
 CMakeCache.txt
 CMakeFiles/
+*Makefile
